@@ -1,0 +1,22 @@
+common:
+  accounts:
+    sandbox:
+      email: sandbox@example.com
+      number: "123456789012"
+      roles:
+        RolePlatformReadOnly: [platform_member]
+  groups:
+    - platform_member
+  users:
+    john.doe: [platform_member]
+    humpty.dumpty: [platform_member]
+
+  ssh_bucket_name: user-sync
+  ssh_keys:
+    john.doe: ssh-ed25519 johnDoe
+    humpty.dumpty: ssh-ed25519 humptyDumpty
+
+production:
+  resource_prefix: ''
+testing:
+  resource_prefix: ''

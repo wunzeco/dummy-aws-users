@@ -20,3 +20,4 @@ production:
   resource_prefix: ''
 testing:
   resource_prefix: ''# dummy text
+# dummy text

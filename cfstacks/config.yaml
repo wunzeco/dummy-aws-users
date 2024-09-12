@@ -19,4 +19,4 @@ common:
 production:
   resource_prefix: ''
 testing:
-  resource_prefix: ''
+  resource_prefix: ''# dummy text

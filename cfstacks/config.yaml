@@ -17,6 +17,8 @@ common:
     - platform_member
     john.doe:
     - platform_member
+    ogonna.psec-2221:
+    - platform_member
     test.user:
     - platform_member
 production:

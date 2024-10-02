@@ -15,8 +15,6 @@ common:
   users:
     daniel.cashcow:
     - platform_member
-    dod3427.snsalltest:
-    - platform_member
     humpty.dumpty:
     - platform_member
     john.doe:

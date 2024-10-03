@@ -21,6 +21,8 @@ common:
     - platform_member
     ash.testtwo:
     - platform_member
+    awsusers.test:
+    - platform_member
     humpty.dumpty:
     - platform_member
     john.doe:

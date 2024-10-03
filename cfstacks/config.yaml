@@ -13,6 +13,8 @@ common:
     humpty.dumpty: ssh-ed25519 humptyDumpty
     john.doe: ssh-ed25519 johnDoe
   users:
+    andy.test01:
+    - platform_member
     ash.testone:
     - platform_member
     ash.testthree:
